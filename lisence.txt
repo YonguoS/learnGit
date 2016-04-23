@@ -1,1 +1,4 @@
 Git is easy to use.
+I do love git.
+My stupid boss still prefers SVN.
+My new Git.
